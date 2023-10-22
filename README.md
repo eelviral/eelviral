@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Eddie Elvira. Welcome to my GitHub page.
 - 👀 This is where I submit coding projects I developed in the past, and ones I'm actively working on.
-- :computer: My repositories are currently limited to Python, Java, and C. However, I plan to release some projects that use the other languages I know (such as C++), in the future.
-- 🌱 I’m currently learning how to build a website from scratch using HTML, CSS, JavaScript, and/or Python's Django module.
-- 💞️ My goal is to develop a machine learning program using Python's AI modules.
 - 📫 If you have questions or concerns about any of my repositories, feel free to message me here.
 
 <!--
